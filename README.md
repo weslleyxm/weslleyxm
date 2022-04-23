@@ -6,7 +6,7 @@
  - 😁 Always learning and giving my best
  - 🌱 Always trying to collaborate with everything
 
-[![Twitter: Weslley Xavier](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/weslleyijt)
+[![Twitter: Weslley Xavier](https://img.shields.io/twitter/follow/Weslley?style=social)](https://twitter.com/weslleyijt)
  
   ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ffffff)
