@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🧑‍💻 **Tech Stack Enthusiast**: I work daily with `.cs`, `.php`, and `.sql`.
+- 🧑‍💻 **Tech Stack Enthusiast**: I work daily with `.cs`, `.php`, `.ts` and `.sql`.
 - 🚀 **Always Growing**: Constantly learning and striving to deliver my best work.
 - 🌟 **Collaborative Spirit**: Passionate about contributing to projects, sharing knowledge, and building cool stuff together.
 
