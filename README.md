@@ -1,11 +1,20 @@
-# 👋 Hey there! I'm Weslley
+# Weslley Xavier
+  
+I build solid backends and clean UIs. Always learning, improving, and working on things that make sense
 
-Welcome to my GitHub profile! Here's a little about me:
+---
 
-- 🧑‍💻 **Tech Stack Enthusiast**: I work daily with `.cs`, `.php`, `.ts` and `.sql`.
-- 🚀 **Always Growing**: Constantly learning and striving to deliver my best work.
-- 🌟 **Collaborative Spirit**: Passionate about contributing to projects, sharing knowledge, and building cool stuff together.
+## 🛠 Tech I Use Daily
+- **Languages:** C#, JavaScript  
+- **Frameworks & Tools:** .NET, Node.js, Express, Unity, MySQL, MongoDB
 
-> 💡 _"Code is like humor. When you have to explain it, it’s bad."_ – [Cory House](https://twitter.com/housecor)
+---
 
-Feel free to explore my repos and reach out for collaboration! 🙌
+## 📌 What I’m Up To
+- Building scalable systems and internal tools  
+- Exploring game development  
+- Writing code that solves real problems
+
+---
+
+Feel free to check out my work or reach out if you want to build something together
