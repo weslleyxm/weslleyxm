@@ -32,9 +32,7 @@ public class DevProfile
         "microservices", "event-driven", "domain-driven design", "server-side rendering"
     };
 
-    public string Challenge { get; set; } =
-    "Constantly learning and building personal and professional projects.";
-
+    public string Challenge { get; set; } = "Constantly learning and building personal and professional projects";
 }
 
 ``` 
