@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    Self-taught Software Engineer passionate about game development, backend systems, and custom tools. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlzZWRwMDQyaXoyajl0Nmg4bmNrdncwN3RtMndqb3BiMzUxNjRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lGhBlBMIN2XsEteTN3/giphy.gif" width="30">
+    Self-taught Software Engineer passionate about game development, backend systems, and custom tools.
   </em> 
 </p>
 
