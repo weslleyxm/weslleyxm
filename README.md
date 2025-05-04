@@ -14,27 +14,22 @@
 
 ### A little more about me...  
 
-```c#
-public class DevProfile
-{
-    public string[] CodeSkills { get; set; } = new[]
-    {
-        "C#", "Lua", "PHP", "JavaScript", "HTML", "CSS", "Node.js"
-    };
-    
-    public string[] Tools { get; set; } = new[]
-    {
-        "Unity", "Docker", "ASP.NET", "MySQL", "MongoDB", "React", "Redis"
-    };
-
-    public string[] ArchitecturePatterns { get; set; } = new[]
-    {
-        "microservices", "event-driven", "domain-driven design", "server-side rendering"
-    };
-
-    public string Challenge { get; set; } = "Constantly learning and building personal and professional projects";
+```lua
+local DevProfile = {
+  CodeSkills = {
+    "C#", "Lua", "PHP", "JavaScript", "HTML", "CSS", "Node.js"
+  },
+  Tools = {
+    "Unity", "Docker", "ASP.NET", "MySQL", "MongoDB", "React", "Redis"
+  },
+  ArchitecturePatterns = {
+    "microservices", "event-driven",
+    "domain-driven design", "server-side rendering"
+  },
+  Challenge = "Constantly learning and building personal and professional projects"
 }
 
+return DevProfile
 ``` 
 
  <br>
